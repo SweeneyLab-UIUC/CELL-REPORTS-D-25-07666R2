@@ -14,7 +14,7 @@ CELL-REPORTS-D-25-07666R2/
 │    │     └── mainfest.json
 │    └── MATLAB Scripts/
 │          ├── RampingAnalysis.m
-│          └── TimePointPuller.m
+│          └── BetweenBoutAnalysis.m
 └── locomotion/
      ├── SLEAP model/
      │    ├── 640x480_gray.ckpt
