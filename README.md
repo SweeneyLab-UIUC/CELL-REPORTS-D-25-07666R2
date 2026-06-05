@@ -4,6 +4,7 @@ Companion resource for CELL-REPORTS-D-25-07666R2: Lactation increases food seeki
 ```
 CELL-REPORTS-D-25-07666R2/
 ├── photometry/
+│    ├── README.md
 │    ├── FiberPhotometryViewer/
 │    │    ├── app.R
 │    │    ├── FiberPhotometryViewerFunctions.R
@@ -16,6 +17,7 @@ CELL-REPORTS-D-25-07666R2/
 │          ├── RampingAnalysis.m
 │          └── BetweenBoutAnalysis.m
 └── locomotion/
+     ├── README.md
      ├── SLEAP model/
      │    ├── 640x480_gray.ckpt
      │    └── initial_config.yaml
