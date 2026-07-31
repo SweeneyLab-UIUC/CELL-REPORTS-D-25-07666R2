@@ -1,5 +1,5 @@
 # CELL-REPORTS-D-25-07666R2
-Companion resource for CELL-REPORTS-D-25-07666R2: Lactation increases food seeking and palatable feeding through mesolimbic dopamine signaling in mice &lt;/LINK TO PAPER/>
+Companion resource for CELL-REPORTS-D-25-07666R2: Lactation increases food seeking and palatable feeding through mesolimbic dopamine signaling in mice https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00798-9
 
 ```
 CELL-REPORTS-D-25-07666R2/
